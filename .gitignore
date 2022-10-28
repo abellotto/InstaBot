@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/bin
+/lib
+/.idea
+/__pycache__
+geckodriver.log
+pyvenv.cfg
